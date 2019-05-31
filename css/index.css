@@ -203,3 +203,34 @@ button {
 .foot-section{
  	padding: 43px 0px 40px 0px;
 }
+
+.middle-content .boxes .box1 {
+	background-color: #008080;
+}
+.middle-content .boxes .box2 {
+	background-color: #FFD700;
+}
+.middle-content .boxes .box3 {
+	background-color: #5f9ea0;
+}
+.middle-content .boxes .box4 {
+	background-color: #FF7F50;
+}
+.middle-content .boxes .box5 {
+	background-color: #DC143C;
+}
+.middle-content .boxes .box6 {
+	background-color: #228b22;
+}
+.middle-content .boxes .box7 {
+	background-color: #9932cc;
+}
+.middle-content .boxes .box8 {
+	background-color: #FF69B4;
+}
+.middle-content .boxes .box9 {
+	background-color: #4b0082 ;
+}
+.middle-content .boxes .box10 {
+	background-color: #0000FF;
+}
